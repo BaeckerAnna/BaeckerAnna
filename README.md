@@ -2,7 +2,7 @@
 - 👀 I’m interested in C#, Java.
 - 🌱 I’m currently learning C#.
 - 💞️ I’m looking to collaborate on many different things.
-<!---- 📫 How to reach me baecker.anna2@gmail.com--->
+<!---- 📫 How to reach me --->
 
 <!---
 BaeckerAnna/BaeckerAnna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
