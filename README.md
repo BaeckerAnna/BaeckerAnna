@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anna Baecker.
 - 👀 I’m interested in C#, Java, HTML & JS.
-- 🌱 I’m currently learning C#.
+- 🌱 I’m currently learning JS/C#.
 - 💞️ I’m looking to collaborate on many different things.
 <!---- 📫 How to reach me --->
 
